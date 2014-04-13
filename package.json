@@ -1,0 +1,23 @@
+{
+  "name": "startuphack-screening",
+  "version": "0.0.0",
+  "description": "Gothenburg Startup Hack Application Screening",
+  "main": "parse.js",
+  "dependencies": {
+    "handlebars": "~2.0.0-alpha.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/odsod/gbgstartuphack-screening.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odsod/gbgstartuphack-screening/issues"
+  },
+  "homepage": "https://github.com/odsod/gbgstartuphack-screening"
+}
