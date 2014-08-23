@@ -6,8 +6,8 @@ Usage
 
 ```
 npm install
-./parse.js responses.tsv > responses.json
-./render.js template.html responses.json > index.html
+./parse responses.tsv > responses.json
+./render template.html responses.json > index.html
 ```
 
 ...and print!
