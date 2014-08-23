@@ -1,5 +1,5 @@
-GBG Startup Hack Application Screening
-======================================
+GBG Startup Hack: Application Screening
+=======================================
 
 Usage
 -----
